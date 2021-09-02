@@ -1,0 +1,10 @@
+<svg width="137" height="182" viewBox="0 0 137 182" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M28 25C28 25 28 25 28 25C28 60.2296 52.4005 88.7888 82.5 88.7888C112.6 88.7888 137 60.2296 137 25L28 25Z"/>
+</mask>
+<path d="M28 25L28 22L25 22V25H28ZM137 25H140V22L137 22V25ZM31 25C31 25 31 25 31 25C31 25 31 25 31 25H25C25 25 25 25 25 25C25 25 25 25 25 25H31ZM82.5 85.7888C54.4828 85.7888 31 59.033 31 25H25C25 61.4263 50.3182 91.7888 82.5 91.7888V85.7888ZM134 25C134 59.033 110.517 85.7888 82.5 85.7888V91.7888C114.682 91.7888 140 61.4263 140 25H134ZM137 22L28 22L28 28L137 28V22Z" fill="black" mask="url(#path-1-inside-1)"/>
+<line x1="82.527" y1="87.7888" x2="82.527" y2="162.373" stroke="black" stroke-width="3"/>
+<path d="M45.4035 175.006L82.5121 162.631L119.621 175.006H45.4035Z" stroke="black" stroke-width="3"/>
+<line x1="32" y1="38.5" x2="135" y2="38.5" stroke="black" stroke-width="3"/>
+<path d="M52 27C52 13.1929 40.8071 2 27 2C13.1929 2 2.33275 13.1969 2.00002 27C1.60664 43.3192 18.2086 55.0165 35.5 52" stroke="black" stroke-width="3"/>
+</svg>
